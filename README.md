@@ -1,6 +1,6 @@
 <h1>Exp No 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: S.JAIGANESH </h3>
-<h3>Register Number: 212222240037</h3>
+<h3>Name: YOHESH KUMAR R.M </h3>
+<h3>Register Number: 212222240118</h3>
 
 
 # AIM:
